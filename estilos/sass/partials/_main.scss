@@ -8,25 +8,26 @@ body{
 
         @include min-mobile {
             
-            background: url(../../../assets/celulyulynulynltyn.jpg) no-repeat center center fixed ;
+            background: url(../../assets/celulyulynulynltyn.jpg) no-repeat center center fixed ;
         }
         @include tablet {
             
-            background: url(../../../assets/daystar_tablet.jpg) no-repeat center center fixed ;
+            background: url(../../assets/daystar_tablet.jpg) no-repeat center center fixed ;
         }
         @include desktop {
             
-            background: url(../../../assets/desktop-background.jpg) no-repeat center center fixed ;
+            background: url(../../assets/desktop-background.jpg) no-repeat center center fixed ;
         }
         
         @include flex(column, center, center);
     }
-
+   
     a{
         text-decoration: none;
         position: relative;
         font-size: 19px;
         color: #000;
+        
 
         @include min-mobile{
             top: 30px;

@@ -12,17 +12,17 @@ body .main {
 }
 @media screen and (min-width: 400px) {
   body .main {
-    background: url(../../../assets/celulyulynulynltyn.jpg) no-repeat center center fixed;
+    background: url(../../assets/celulyulynulynltyn.jpg) no-repeat center center fixed;
   }
 }
 @media screen and (min-width: 600px) {
   body .main {
-    background: url(../../../assets/daystar_tablet.jpg) no-repeat center center fixed;
+    background: url(../../assets/daystar_tablet.jpg) no-repeat center center fixed;
   }
 }
 @media screen and (min-width: 992px) {
   body .main {
-    background: url(../../../assets/desktop-background.jpg) no-repeat center center fixed;
+    background: url(../../assets/desktop-background.jpg) no-repeat center center fixed;
   }
 }
 body a {
